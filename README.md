@@ -1,5 +1,7 @@
 # sfGetTitleNews
+shotgun farmers
 checks the GetTitleNews api function
+
 
 no idea what the api function is for, or what it could be for but this program checks it
 
