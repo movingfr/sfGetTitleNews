@@ -1,5 +1,5 @@
 # sfGetTitleNews
-shotgun farmers
+
 checks the GetTitleNews api function
 
 
@@ -11,3 +11,6 @@ Status not ok?
 Status is ok?
 
 must supply your own token
+
+
+shotgun farmers
