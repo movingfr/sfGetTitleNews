@@ -1,4 +1,4 @@
-# sfGetTitleNews
+# shotgunfarmers GetTitleNews
 
 checks the GetTitleNews api function
 
