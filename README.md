@@ -1,4 +1,4 @@
-# shotgunfarmers GetTitleNews
+# shotgun farmers GetTitleNews
 
 checks the GetTitleNews api function
 
