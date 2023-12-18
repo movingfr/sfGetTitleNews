@@ -13,4 +13,6 @@ Status is ok?
 ``must supply your own token``
 
 
+(IF no token in token.txt then the program will close)
+
 shotgun farmers
